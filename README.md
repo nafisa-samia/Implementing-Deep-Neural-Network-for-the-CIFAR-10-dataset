@@ -8,7 +8,6 @@ Topics Covered in this project:
 - Add "lecun_normal" normalization with SELU
 - Learning Rate Schedulers : Cyclic Learning rate and also check the accuracy and loss
 
-**All the implementation are done in TensorFlow and Keras
-**
+<b>All the implementation are done in TensorFlow and Keras</b>
 
 Google Colab Link: https://colab.research.google.com/drive/1UKneM3gKWFMFzJ1MAPaFO1TzMkjNDBuQ?usp=sharing
